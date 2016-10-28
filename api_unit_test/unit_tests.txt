@@ -1,0 +1,57 @@
+PHPUnit 4.0.18 by Sebastian Bergmann.
+
+..
+
+Time: 112 ms, Memory: 3.00Mb
+
+OK (2 tests, 1 assertion)
+
+PHPUnit 4.0.18 by Sebastian Bergmann.
+
+.
+
+Time: 302 ms, Memory: 3.00Mb
+
+OK (1 test, 8 assertions)
+
+
+
+PHPUnit 4.0.18 by Sebastian Bergmann.
+
+..
+
+Time: 117 ms, Memory: 3.00Mb
+
+OK (2 tests, 3 assertions)
+
+PHPUnit 4.0.18 by Sebastian Bergmann.
+
+.
+
+Time: 177 ms, Memory: 3.00Mb
+
+OK (1 test, 12 assertions)
+
+PHPUnit 4.0.18 by Sebastian Bergmann.
+
+.
+
+Time: 244 ms, Memory: 3.00Mb
+
+OK (1 test, 30 assertions)
+
+PHPUnit 4.0.18 by Sebastian Bergmann.
+
+.
+
+Time: 151 ms, Memory: 3.00Mb
+
+OK (1 test, 12 assertions)
+
+PHPUnit 4.0.18 by Sebastian Bergmann.
+
+....
+
+Time: 206 ms, Memory: 3.00Mb
+
+OK (4 tests, 26 assertions)
